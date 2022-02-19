@@ -15,6 +15,7 @@ public class HelloController {
     @RequestMapping("/hello")
     public String hello(@RequestParam("name") String name){
         System.out.println("hello1");
+        System.out.println("hot-fix");
         return "hello spring boot。"+name;
     }
 
