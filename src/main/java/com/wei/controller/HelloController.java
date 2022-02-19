@@ -16,6 +16,7 @@ public class HelloController {
     public String hello(@RequestParam("name") String name){
         System.out.println("hello1");
         System.out.println("master test");
+        System.out.println("hot-fix");
         return "hello spring boot。"+name;
     }
 
