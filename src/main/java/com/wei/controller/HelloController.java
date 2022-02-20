@@ -18,6 +18,7 @@ public class HelloController {
         System.out.println("master test");
         System.out.println("hot-fix");
          System.out.println("pull-test");
+         System.out.println("gitee pull-test");
         return "hello spring boot。"+name;
     }
 
