@@ -22,6 +22,7 @@ public class HelloController {
         System.out.println("wei git");
         System.out.println("master");
         System.out.println("wei");
+         System.out.println("pull");
         return "hello spring boot。"+name;
     }
 
