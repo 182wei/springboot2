@@ -18,6 +18,11 @@ public class HelloController {
         System.out.println("master test");
         System.out.println("hot-fix");
          System.out.println("pull-test");
+         System.out.println("gitee pull-test");
+        System.out.println("wei git");
+        System.out.println("master");
+        System.out.println("wei");
+         System.out.println("pull");
         System.out.println("test-wq");
         return "hello spring boot。"+name;
     }
