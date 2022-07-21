@@ -25,6 +25,7 @@ public class HelloController {
          System.out.println("pull");
         System.out.println("test-wq");
         System.out.println("推送到wq分支");
+        System.out.println("推送到wq分支2");
         return "hello spring boot。"+name;
     }
 
